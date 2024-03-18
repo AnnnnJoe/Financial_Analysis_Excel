@@ -1,4 +1,4 @@
-# MS Excel Projects
+# MS Excel Projects - Financial Analysis
 ## 1. Budget vs Actuals Dashboard for personal finance
 This dashboard is designed to provide a comprehensive comparison between budgeted and actual personal expenses and income on a monthly basis. By integrating these elements, the Budget vs Actuals Dashboard provides users with a robust tool for tracking financial performance, facilitating informed decision-making and budgetary adjustments.
 
